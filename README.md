@@ -16,6 +16,8 @@ Slide2PPT leverages large models to reconstruct PowerPoint slides from reference
 
 Each row follows one slide through the complete pipeline. The center animation cycles through the three generation renders and the final iterative-refinement render; the right column shows the same slide with its editable PowerPoint objects selected.
 
+> **Image attribution.** The reference images shown in this showcase are screenshots directly taken from figures in the corresponding papers. They are reproduced here for research and demonstration purposes. We gratefully acknowledge the original authors for providing these examples.
+
 <table>
   <thead>
     <tr>
